@@ -1,0 +1,17 @@
+#header{
+    font-style: oblique;
+    background-color: aquamarine;
+    top:0px;
+    margin: 0px;
+    padding: 8px;
+}
+#footer{
+    bottom: 0;
+    background-color: aquamarine;
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+}
+#start_button{
+    width: 250px;
+}
